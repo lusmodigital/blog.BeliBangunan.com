@@ -1,7 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//blog.belibangunan.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//adhityaferdian.my.id/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog</loc>
+	</url>
+	<url>
+		<loc>/5-cara-bikin-taman-depan-rumah-sederhana.html</loc>
+		<lastmod>2023-01-14T16:56:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/5-inspirasi-rumah-american-style-yang-modern-dan-klasik.html</loc>
+		<lastmod>2023-01-11T10:55:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/7-inspirasi-warna-gorden-yang-elegan-dan-minimalis.html</loc>
+		<lastmod>2023-01-11T10:24:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/5-tips-mengatur-kamar-cowo-tanpa-ribet.html</loc>
+		<lastmod>2023-01-08T04:11:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/6-trik-menciptakan-ruang-tamu-estetik-dan-nyaman.html</loc>
